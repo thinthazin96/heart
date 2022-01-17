@@ -1,9 +1,13 @@
+.heart-btn{
+    display: inline-block;
+    width: 10%;
+}
 .content{
     border: 2px solid black;
-    width: 2.5%;
     padding: 0px 5px 0px 5px;
     border-radius: 5px;
     cursor: pointer;
+    display: inline-block;
 }
 
 #btn{
