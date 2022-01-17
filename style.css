@@ -1,0 +1,16 @@
+.content{
+    border: 2px solid black;
+    width: 2.5%;
+    padding: 0px 5px 0px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#btn{
+    width: 20px; 
+    height: 20px;
+}
+
+#display{
+    font-size: 25px;
+}
