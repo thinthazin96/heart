@@ -1,3 +1,7 @@
+/* ==============
+Heart button
+============== */
+
 .heart-btn{
     display: inline-block;
     width: 10%;
@@ -9,12 +13,10 @@
     cursor: pointer;
     display: inline-block;
 }
-
 #btn{
     width: 20px; 
     height: 20px;
 }
-
 #display{
     font-size: 25px;
 }
